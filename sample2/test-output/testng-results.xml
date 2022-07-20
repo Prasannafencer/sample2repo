@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="regerisontetsingSuite" duration-ms="156" started-at="2022-07-20T11:23:15 IST" finished-at="2022-07-20T11:23:15 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="156" started-at="2022-07-20T11:23:15 IST" finished-at="2022-07-20T11:23:15 IST">
+      <class name="Sample.regersion_testing">
+        <test-method status="PASS" signature="regresionatesting()[pri:0, instance:Sample.regersion_testing@30a3107a]" name="regresionatesting" duration-ms="23" started-at="2022-07-20T11:23:15 IST" finished-at="2022-07-20T11:23:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regresionatesting -->
+      </class> <!-- Sample.regersion_testing -->
+    </test> <!-- Test -->
+  </suite> <!-- regerisontetsingSuite -->
+</testng-results>
